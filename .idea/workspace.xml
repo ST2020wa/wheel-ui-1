@@ -7,6 +7,13 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Vue Single File Component" />
+      </list>
+    </option>
+  </component>
   <component name="ProjectId" id="1kUYxGhxrfnB6nf1lg9dnzkjwBU" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -36,7 +43,7 @@
       <updated>1605756883002</updated>
       <workItem from="1605756884243" duration="551000" />
       <workItem from="1605757862868" duration="843000" />
-      <workItem from="1605761326513" duration="2907000" />
+      <workItem from="1605761326513" duration="4829000" />
     </task>
     <servers />
   </component>
@@ -44,17 +51,33 @@
     <option name="version" value="3" />
   </component>
   <component name="WindowStateProjectService">
+    <state width="1251" height="224" key="GridCell.Tab.0.bottom" timestamp="1605769715049">
+      <screen x="0" y="23" width="2560" height="1366" />
+    </state>
+    <state width="1251" height="224" key="GridCell.Tab.0.bottom/0.23.2560.1366@0.23.2560.1366" timestamp="1605769715049" />
+    <state width="1251" height="224" key="GridCell.Tab.0.center" timestamp="1605769715047">
+      <screen x="0" y="23" width="2560" height="1366" />
+    </state>
+    <state width="1251" height="224" key="GridCell.Tab.0.center/0.23.2560.1366@0.23.2560.1366" timestamp="1605769715047" />
+    <state width="1251" height="224" key="GridCell.Tab.0.left" timestamp="1605769715046">
+      <screen x="0" y="23" width="2560" height="1366" />
+    </state>
+    <state width="1251" height="224" key="GridCell.Tab.0.left/0.23.2560.1366@0.23.2560.1366" timestamp="1605769715046" />
+    <state width="1251" height="224" key="GridCell.Tab.0.right" timestamp="1605769715048">
+      <screen x="0" y="23" width="2560" height="1366" />
+    </state>
+    <state width="1251" height="224" key="GridCell.Tab.0.right/0.23.2560.1366@0.23.2560.1366" timestamp="1605769715048" />
     <state x="146" y="76" key="SettingsEditor" timestamp="1605761361409">
       <screen x="0" y="23" width="2560" height="1366" />
     </state>
     <state x="146" y="76" key="SettingsEditor/0.23.2560.1366@0.23.2560.1366" timestamp="1605761361409" />
-    <state x="338" y="192" width="598" height="490" key="find.popup" timestamp="1605761503144">
+    <state x="338" y="192" width="598" height="490" key="find.popup" timestamp="1605765131852">
       <screen x="0" y="23" width="2560" height="1366" />
     </state>
-    <state x="338" y="192" width="598" height="490" key="find.popup/0.23.2560.1366@0.23.2560.1366" timestamp="1605761503144" />
-    <state x="302" y="201" width="670" height="676" key="search.everywhere.popup" timestamp="1605760967741">
+    <state x="338" y="192" width="598" height="490" key="find.popup/0.23.2560.1366@0.23.2560.1366" timestamp="1605765131852" />
+    <state x="302" y="201" width="670" height="676" key="search.everywhere.popup" timestamp="1605769689752">
       <screen x="0" y="23" width="2560" height="1366" />
     </state>
-    <state x="302" y="201" width="670" height="676" key="search.everywhere.popup/0.23.2560.1366@0.23.2560.1366" timestamp="1605760967741" />
+    <state x="302" y="201" width="670" height="676" key="search.everywhere.popup/0.23.2560.1366@0.23.2560.1366" timestamp="1605769689752" />
   </component>
 </project>

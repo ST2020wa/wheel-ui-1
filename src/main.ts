@@ -2,15 +2,15 @@ import { createApp } from 'vue'  // 引入createApp，用来创建app实例的�
 import App from './App.vue'  // 引入App.vue组件
 import './index.css'
 import {createWebHashHistory, createRouter} from 'vue-router'
-import St from './components/St.vue'
-import St2 from './components/St2.vue'
+import Home from './views/Home.vue'
+import Doc from './views/Doc.vue'
 
 const history = createWebHashHistory()
 const router = createRouter({
     history: history,
     routes: [
-        {path:'/', component: St},
-        {path: '/xxx', component: St2}
+        {path:'/', component: Home},
+        {path: '/doc', component: Doc}
     ]
 })
 
