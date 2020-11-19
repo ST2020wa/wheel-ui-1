@@ -5,8 +5,8 @@
       <h1>Wheel-UI</h1>
       <h2>An AWESOME UI-frame</h2>
       <p class="actions">
-        <a>GitHub</a>
-        <a>Get Started</a>
+        <a href="https://github.com/ST2020wa">GitHub</a>
+        <router-link to="/doc">Get Started</router-link>
       </p>
     </div>
   </div>
