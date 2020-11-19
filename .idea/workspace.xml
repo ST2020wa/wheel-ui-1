@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="809460e7-a664-4a87-9178-14e848299950" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Topnav.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Topnav.vue" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/index.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/views/Doc.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/views/Doc.vue" afterDir="false" />
     </list>
@@ -52,7 +53,7 @@
       <workItem from="1605756884243" duration="551000" />
       <workItem from="1605757862868" duration="843000" />
       <workItem from="1605761326513" duration="7216000" />
-      <workItem from="1605778556409" duration="3573000" />
+      <workItem from="1605778556409" duration="4371000" />
     </task>
     <servers />
   </component>
@@ -80,10 +81,10 @@
       <screen x="0" y="23" width="2560" height="1366" />
     </state>
     <state x="146" y="76" key="SettingsEditor/0.23.2560.1366@0.23.2560.1366" timestamp="1605761361409" />
-    <state x="338" y="192" width="598" height="490" key="find.popup" timestamp="1605780487456">
+    <state x="338" y="192" width="598" height="490" key="find.popup" timestamp="1605794490980">
       <screen x="0" y="23" width="2560" height="1366" />
     </state>
-    <state x="338" y="192" width="598" height="490" key="find.popup/0.23.2560.1366@0.23.2560.1366" timestamp="1605780487456" />
+    <state x="338" y="192" width="598" height="490" key="find.popup/0.23.2560.1366@0.23.2560.1366" timestamp="1605794490980" />
     <state x="302" y="201" width="670" height="676" key="search.everywhere.popup" timestamp="1605776921913">
       <screen x="0" y="23" width="2560" height="1366" />
     </state>
