@@ -1,5 +1,0 @@
-<template>
-  <div>
-    My first component St.vue!
-  </div>
-</template>

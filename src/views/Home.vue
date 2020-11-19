@@ -1,12 +1,6 @@
 <template>
   <div>
-    <div class="topnav">
-      <div class="logo"></div>
-      <ul class="menu">
-        <li>Menu-1</li>
-        <li>Menu-2</li>
-      </ul>
-    </div>
+    <Topnav />
     <div class="banner">
       <h1>Wheel-UI</h1>
       <h2>An AWESOME UI-frame</h2>
@@ -17,6 +11,9 @@
     </div>
   </div>
 </template>
-<style lang="scss" scoped>
- .topnav{border: 1px solid red;}
-</style>
+<script lang="ts">
+ import Topnav from '../components/Topnav.vue'
+  export default {
+    components: {Topnav}
+  }
+</script>
