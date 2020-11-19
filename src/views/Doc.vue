@@ -20,7 +20,9 @@
           </li>
         </ol>
       </aside>
-      <main>mainContent</main>
+      <main>
+        <router-view />
+      </main>
     </div>
   </div>
 </template>
