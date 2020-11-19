@@ -1,8 +1,11 @@
 <template>
   <div>
-    <div class="topnar">
+    <div class="topnav">
       <div class="logo"></div>
-      <div class="menu"></div>
+      <ul class="menu">
+        <li>Menu-1</li>
+        <li>Menu-2</li>
+      </ul>
     </div>
     <div class="banner">
       <h1>Wheel-UI</h1>
@@ -15,5 +18,5 @@
   </div>
 </template>
 <style lang="scss" scoped>
- .topnar{border: 1px solid red;}
+ .topnav{border: 1px solid red;}
 </style>
