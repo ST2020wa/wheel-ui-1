@@ -3,8 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="809460e7-a664-4a87-9178-14e848299950" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.vue" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/Topnav.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Topnav.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/views/Doc.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/views/Doc.vue" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -53,7 +53,7 @@
       <workItem from="1605756884243" duration="551000" />
       <workItem from="1605757862868" duration="843000" />
       <workItem from="1605761326513" duration="7216000" />
-      <workItem from="1605778556409" duration="4371000" />
+      <workItem from="1605778556409" duration="7060000" />
     </task>
     <servers />
   </component>
@@ -77,17 +77,17 @@
       <screen x="0" y="23" width="2560" height="1366" />
     </state>
     <state width="1251" height="224" key="GridCell.Tab.0.right/0.23.2560.1366@0.23.2560.1366" timestamp="1605778540524" />
-    <state x="146" y="76" key="SettingsEditor" timestamp="1605761361409">
+    <state x="146" y="76" key="SettingsEditor" timestamp="1605795431456">
       <screen x="0" y="23" width="2560" height="1366" />
     </state>
-    <state x="146" y="76" key="SettingsEditor/0.23.2560.1366@0.23.2560.1366" timestamp="1605761361409" />
-    <state x="338" y="192" width="598" height="490" key="find.popup" timestamp="1605794490980">
+    <state x="146" y="76" key="SettingsEditor/0.23.2560.1366@0.23.2560.1366" timestamp="1605795431456" />
+    <state x="338" y="192" width="598" height="490" key="find.popup" timestamp="1605798142773">
       <screen x="0" y="23" width="2560" height="1366" />
     </state>
-    <state x="338" y="192" width="598" height="490" key="find.popup/0.23.2560.1366@0.23.2560.1366" timestamp="1605794490980" />
-    <state x="302" y="201" width="670" height="676" key="search.everywhere.popup" timestamp="1605776921913">
+    <state x="338" y="192" width="598" height="490" key="find.popup/0.23.2560.1366@0.23.2560.1366" timestamp="1605798142773" />
+    <state x="302" y="201" width="670" height="676" key="search.everywhere.popup" timestamp="1605795640957">
       <screen x="0" y="23" width="2560" height="1366" />
     </state>
-    <state x="302" y="201" width="670" height="676" key="search.everywhere.popup/0.23.2560.1366@0.23.2560.1366" timestamp="1605776921913" />
+    <state x="302" y="201" width="670" height="676" key="search.everywhere.popup/0.23.2560.1366@0.23.2560.1366" timestamp="1605795640957" />
   </component>
 </project>
