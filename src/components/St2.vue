@@ -1,5 +1,5 @@
 <template>
   <div>
-    My first component St.vue!
+    My second component St2.vue!
   </div>
 </template>

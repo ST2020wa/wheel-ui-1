@@ -1,15 +1,15 @@
 <template>
-  <div>Halo</div>
-  <St />
+  <div>Navigation-Bar |
+    <router-link to="/">St</router-link> |
+    <router-link to="/xxx">St2</router-link>
+  </div>
+  <hr />
+  <router-view />
 </template>
 
 <script>
-import St from './components/St.vue'
 
 export default {
   name: 'App',
-  components: {
-    St
-  }
 }
 </script>
