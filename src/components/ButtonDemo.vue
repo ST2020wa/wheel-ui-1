@@ -1,5 +1,5 @@
 <template>
   <div>
-    Hey I'm SwitchDemo!
+    Hey I'm ButtonDemo!
   </div>
 </template>
