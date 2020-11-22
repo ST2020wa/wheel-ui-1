@@ -11,9 +11,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="809460e7-a664-4a87-9178-14e848299950" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/lib/Switch.vue" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/SwitchDemo.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/SwitchDemo.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lib/Switch.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/lib/Switch.vue" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,7 +68,7 @@
       <workItem from="1605761326513" duration="7216000" />
       <workItem from="1605778556409" duration="9543000" />
       <workItem from="1605848246650" duration="2669000" />
-      <workItem from="1606023809398" duration="3182000" />
+      <workItem from="1606023809398" duration="4493000" />
     </task>
     <servers />
   </component>
@@ -113,9 +112,9 @@
       <screen x="0" y="23" width="2560" height="1366" />
     </state>
     <state x="338" y="192" width="598" height="490" key="find.popup/0.23.2560.1366@0.23.2560.1366" timestamp="1605850239248" />
-    <state x="302" y="201" width="670" height="676" key="search.everywhere.popup" timestamp="1605795640957">
+    <state x="302" y="201" width="670" height="676" key="search.everywhere.popup" timestamp="1606027671942">
       <screen x="0" y="23" width="2560" height="1366" />
     </state>
-    <state x="302" y="201" width="670" height="676" key="search.everywhere.popup/0.23.2560.1366@0.23.2560.1366" timestamp="1605795640957" />
+    <state x="302" y="201" width="670" height="676" key="search.everywhere.popup/0.23.2560.1366@0.23.2560.1366" timestamp="1606027671942" />
   </component>
 </project>
