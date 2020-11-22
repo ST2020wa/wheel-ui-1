@@ -1,5 +1,5 @@
 <template>
-  <button @click="toggle" :class="{checked}">
+  <button @click="toggle" :class="{checked:value}">
 <!--    如果x为true，button class是checked；反之则不是checked-->
     <span></span>
   </button>
@@ -7,12 +7,17 @@
 <script lang="ts">
 import {ref} from 'vue'
   export default {
-    setup(){
-      const checked = ref(false)
+  props: {
+    value: Boolean
+    //外部传的值可以直接获取
+  },
+    setup(props, context){
       const toggle = () => {
-        checked.value = !checked.value
+        context.emit('update:value', !props.value)
+        // toggle的作用是把当前值取反，通过update:value事件发给外面，告诉外面有用户点击了value
+        // this.$emit()
       }
-      return {checked, toggle}
+      return {toggle}
     }
   }
 </script>
