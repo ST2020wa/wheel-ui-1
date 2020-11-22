@@ -11,15 +11,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="809460e7-a664-4a87-9178-14e848299950" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/components/ButtonDemo.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/DialogDemo.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/DocDemo.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/TabsDemo.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lib/Switch.vue" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/SwitchDemo.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/SwitchDemo.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Topnav.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Topnav.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/router.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/router.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/views/Doc.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/views/Doc.vue" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -74,7 +68,8 @@
       <workItem from="1605757862868" duration="843000" />
       <workItem from="1605761326513" duration="7216000" />
       <workItem from="1605778556409" duration="9543000" />
-      <workItem from="1605848246650" duration="2497000" />
+      <workItem from="1605848246650" duration="2669000" />
+      <workItem from="1606023809398" duration="3182000" />
     </task>
     <servers />
   </component>
