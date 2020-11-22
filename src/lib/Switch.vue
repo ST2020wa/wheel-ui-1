@@ -21,7 +21,7 @@ import {ref} from 'vue'
 $h: 22px;
 $h2: $h - 4px;
 button{
-  background: grey;
+  background: lightgrey;
   height: $h;
   width: $h*2;
   border: none;
@@ -36,11 +36,15 @@ span{
   width: $h2;
   background:lightgreen;
   border-radius: $h2 / 2;
+  transition: left 250ms;
 }
 button.checked{
   background: white;
 }
 button.checked > span {
   left: calc(100% - #{$h2} - 2px);
+}
+button:focus{
+  outline: none;
 }
 </style>
