@@ -28,7 +28,7 @@ Trace:
 
 npm manifest: 
   {
-    "name": "wheel-ui-1",
+    "name": "weee-ui-1",
     "version": "0.0.0",
     "scripts": {
       "dev": "vite",

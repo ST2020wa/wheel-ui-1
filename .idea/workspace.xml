@@ -10,12 +10,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="809460e7-a664-4a87-9178-14e848299950" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/ButtonDemo.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/ButtonDemo.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lib/Button.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/lib/Button.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/views/Home.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/views/Home.vue" afterDir="false" />
-    </list>
+    <list default="true" id="809460e7-a664-4a87-9178-14e848299950" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -29,7 +24,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../weee-ui-1" />
   </component>
   <component name="ProjectId" id="1kUYxGhxrfnB6nf1lg9dnzkjwBU" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -73,7 +68,7 @@
       <workItem from="1606023809398" duration="7231000" />
       <workItem from="1606207123949" duration="39000" />
       <workItem from="1606464843015" duration="193000" />
-      <workItem from="1606465993039" duration="4904000" />
+      <workItem from="1606465993039" duration="5557000" />
     </task>
     <servers />
   </component>
@@ -117,9 +112,9 @@
       <screen x="0" y="23" width="2560" height="1366" />
     </state>
     <state x="338" y="192" width="598" height="490" key="find.popup/0.23.2560.1366@0.23.2560.1366" timestamp="1606488154022" />
-    <state x="302" y="201" width="670" height="676" key="search.everywhere.popup" timestamp="1606035178772">
+    <state x="302" y="201" width="670" height="676" key="search.everywhere.popup" timestamp="1606489269379">
       <screen x="0" y="23" width="2560" height="1366" />
     </state>
-    <state x="302" y="201" width="670" height="676" key="search.everywhere.popup/0.23.2560.1366@0.23.2560.1366" timestamp="1606035178772" />
+    <state x="302" y="201" width="670" height="676" key="search.everywhere.popup/0.23.2560.1366@0.23.2560.1366" timestamp="1606489269379" />
   </component>
 </project>
