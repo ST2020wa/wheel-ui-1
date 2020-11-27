@@ -2,7 +2,7 @@
   <div>
     <Topnav />
     <div class="banner">
-      <h1>Wheel-UI</h1>
+      <h1>Weee-UI</h1>
       <h2>An AWESOME UI-frame</h2>
       <p class="actions">
         <a href="https://github.com/ST2020wa">GitHub</a>
