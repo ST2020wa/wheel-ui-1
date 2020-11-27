@@ -11,7 +11,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="809460e7-a664-4a87-9178-14e848299950" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/lib/Button.vue" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/ButtonDemo.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/ButtonDemo.vue" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,7 +69,10 @@
       <workItem from="1605761326513" duration="7216000" />
       <workItem from="1605778556409" duration="9543000" />
       <workItem from="1605848246650" duration="2669000" />
-      <workItem from="1606023809398" duration="7187000" />
+      <workItem from="1606023809398" duration="7231000" />
+      <workItem from="1606207123949" duration="39000" />
+      <workItem from="1606464843015" duration="193000" />
+      <workItem from="1606465993039" duration="1437000" />
     </task>
     <servers />
   </component>
